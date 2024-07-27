@@ -7,7 +7,7 @@ const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement)
 
 root.render(
   <>
-    <h1>hello world</h1>
+    <h1>this is cicd test</h1>
     <img src="./logo192.png" alt="" />
     <img src={logo} alt="" />
   </>,
